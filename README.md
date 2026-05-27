@@ -65,3 +65,6 @@ streamlit run app.py
 ```
 
 Open your web browser to http://localhost:8501 to monitor production incidents and trigger your first autonomous triage run!
+
+## 📸 Screenshots
+![**_image_alt_**](https://github.com/Bikram2473/devscops_agent/blob/main/Screenshot%202026-05-27%20163604.png)</br>
